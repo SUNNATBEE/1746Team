@@ -2,8 +2,8 @@ import React from 'react'
 
 const Elbek = () => {
   return (
-    <div>
-      
+    <div >
+      Elbek
     </div>
   )
 }
